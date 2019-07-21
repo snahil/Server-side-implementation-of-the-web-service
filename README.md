@@ -26,10 +26,17 @@ NOTE: Require Python Version 3.0 or Later Required
 <img align="center" src="https://user-images.githubusercontent.com/16596896/61273622-d3948080-a75e-11e9-8d41-929730f428d6.JPG">
 		
 		step-2 - Run the ansible.yml file for resolving the dependency</br>
-
-		</br>step-3 - Visit the given "URL" for "API" - http://127.0.0.1:5000 # If the service is not active kindly check the port it might be used in another process</br>
-		 ![adsfasdfgasdgas](https://user-images.githubusercontent.com/16596896/61590856-6d9b6500-ab73-11e9-8ae2-444e56078b92.JPG) 
-
+</br><img align="center" src="https://user-images.githubusercontent.com/16596896/61590903-0205c780-ab74-11e9-8a59-e69e50f52998.JPG">
+		step-3 - Visit the given "URL" for "API" - http://127.0.0.1:5000 # If the service is not active kindly check the port it might be used in another process
+	
+	
+</br><img align="center" src="https://user-images.githubusercontent.com/16596896/61590908-21045980-ab74-11e9-80c5-cf01e6b6c536.JPG">	
+	
+		
+		
+		
+		
+		
 
 		
 
