@@ -30,7 +30,7 @@ NOTE: Require Python Version 3.0 or Later Required
 </br><img align="center" src="https://user-images.githubusercontent.com/16596896/61590903-0205c780-ab74-11e9-8a59-e69e50f52998.JPG">
 
 
-		</br>step-3 - Visit the given "URL" for "API" - http://127.0.0.1:5000 # If the service is not active kindly check the port it might be used in another process
+		step-3 - Visit the given "URL" for "API" - http://127.0.0.1:5000 # If the service is not active kindly check the port it might be used in another process
 	
 	
 </br><img align="center" src="https://user-images.githubusercontent.com/16596896/61590932-780a2e80-ab74-11e9-8351-4b4104cfb114.JPG">	
