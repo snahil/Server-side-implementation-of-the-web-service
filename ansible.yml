@@ -1,0 +1,8 @@
+--- 
+-hosts: [test] # kindly put the name of your host 
+ tasks:
+   
+   - command: pip install flask
+   - command: pip install virtualenv
+   - command: pip install flask_sqlalchemy
+   - command: pip install SQLAlchemy
