@@ -30,8 +30,7 @@ NOTE: Require Python Version 3.0 or Later Required
 		step-3 - Visit the given "URL" for "API" - http://127.0.0.1:5000 # If the service is not active kindly check the port it might be used in another process
 
 
-		step-4 - Visit the given link for getting data "GET-FUNCTION" - http://127.0.0.1:5000/api/v1/resources/grofers?id=0
-
+		
 
 
 
