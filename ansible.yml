@@ -1,8 +1,7 @@
 --- 
 - hosts: [test] # kindly put the name of your host 
   tasks:
-                #  sudo yum upgrade python-setuptools
-                #sudo yum install python-pip python-wheel
+                
    - command: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py     
    - command: python get-pip.py
    - command: pip install flask
